@@ -16,6 +16,16 @@ Here you can find complete tutorial series and each video link.
 - [Drawer Navigator Tutorial](https://youtu.be/2Tj9y8lfiyo)
 - [Stack Navigator Tutorial](https://youtu.be/a9jSyZXYGn8)
 
+# Use login details
+
+        username: 'user1', 
+        password: 'password', 
+
+        username: 'user2', 
+        password: 'pass1234', 
+ 
+        username: 'testuser', 
+        password: 'testpass'
 
 # Project Demo
 ![React Navigation v5 Mix App iPhone Demo](https://raw.githubusercontent.com/itzpradip/react-navigation-v5-mix/master/app-interaction-demo-iphone.gif)
